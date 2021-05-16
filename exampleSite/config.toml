@@ -1,4 +1,4 @@
-baseURL = "http://aditya-portolio.netlify.com"
+baseURL = "http://aditya-portfolio.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
