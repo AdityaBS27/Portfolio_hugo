@@ -60,5 +60,5 @@ blog:
   title: Blogs
 menu:
   main:
-    name: ''
+    name: Portfolio
     weight: 3
