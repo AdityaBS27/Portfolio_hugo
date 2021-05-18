@@ -52,7 +52,7 @@ education:
     year: "2004"
     academy: Visvesvaraya Technological University
 portfolio:
-  enable: false
+  enable: true
   title: Portfolio
   item_show: "5"
 blog:
