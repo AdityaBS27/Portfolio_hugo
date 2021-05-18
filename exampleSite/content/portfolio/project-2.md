@@ -1,12 +1,12 @@
 ---
 title: "Probabilistic vehicle trajectories prediction using Inverse Reinforcement Learning"
 date: 2019-09-23T12:14:34+06:00
-image: "images/portfolio/GAIL.gif"
+image: "./images/portfolio/GAIL.gif"
 #client: "John Doe"
 project_url : "https://github.com/AdityaBS27/DIRL"
 categories: ["Data Science"]
 description: "This is meta description."
-draft: false
+draft: True
 ---
 #### Project
 
@@ -36,8 +36,8 @@ comparing these trajectories with expert data.
 
 
 #### Images
-![](/images/portfolio/2_5.png)
-![](/images/portfolio/2_1.png)
-![](/images/portfolio/2_2.gif)
-![](/images/portfolio/2_3.gif)
-![](/images/portfolio/2_4.png)
+![](./images/portfolio/2_5.png)
+![](./images/portfolio/2_1.png)
+![](./images/portfolio/2_2.gif)
+![](./images/portfolio/2_3.gif)
+![](./images/portfolio/2_4.png)
