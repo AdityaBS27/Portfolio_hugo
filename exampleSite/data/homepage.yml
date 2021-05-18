@@ -1,93 +1,60 @@
-# banner
+---
 banner:
-  title : Hi! I’m <br> Aditya <br> Data Analyst
-
-# about
+  title: Hi! I’m <br> Aditya <br> Data Analyst
 about:
-  enable : true
-  content : " A website to showcase my work in the field in Data science, Financial Mathematics, Business Intelligence and Mechatronics projects."
-  button :
-    enable : true
-    label : "know more"
-    URL : "about"
-
-# skill
+  enable: true
+  content: " A website to showcase my work in the field in Data science, Financial
+    Mathematics, Business Intelligence and Mechatronics projects."
+  button:
+    enable: true
+    label: know more
+    URL: about
 skill:
-  enable : true
-  title : "Skills"
+  enable: true
+  title: Skills
   item:
-    - title : "Python"
-      progress : "80%"
-      color : "#fdb157"
-
-    - title : "R"
-      progress : "70%"
-      color : "#9473e6"
-
-    - title : "SQL"
-      progress : "80%"
-      color : "#bdecf6"
-
-    - title : "PowerBI"
-      progress : "80%"
-      color : "#F1C40F"
-
-
-
-
-
-
-
-
-
-# experience
+  - title: Python
+    progress: 80%
+    color: "#fdb157"
+  - title: R
+    progress: 70%
+    color: "#9473e6"
+  - title: SQL
+    progress: 80%
+    color: "#bdecf6"
+  - title: PowerBI
+    progress: 80%
+    color: "#F1C40F"
 experience:
-  enable : true
-  title : "Experience"
+  enable: true
+  title: Experience
   item:
-    - logo : "images/experience/OPEC.png"
-      title : "Big Data Analyst"
-      company : "OPEC"
-      duration : "Oct 2019 - Aug 2020 "
-
-    - logo : "images/experience/Volvo.jpg"
-      title : "Machine Learning Researcher"
-      company : "Volvo"
-      duration : "Jan 2019 - Sep 2019"
-
-    - logo : "images/experience/BEL.jpg"
-      title : "Consultant"
-      company : "Bharath Electonics Limited"
-      duration : "Dec 2014 - Dec 2016"
-
-# education
+  - logo: images/experience/OPEC.png
+    title: Big Data Analyst
+    company: OPEC
+    duration: 'Oct 2019 - Aug 2020 '
+  - logo: images/experience/Volvo.jpg
+    title: Machine Learning Researcher
+    company: Volvo
+    duration: Jan 2019 - Sep 2019
+  - logo: images/experience/BEL.jpg
+    title: Consultant
+    company: Bharath Electonics Limited
+    duration: Dec 2014 - Dec 2016
 education:
-  enable : true
-  title : "Education"
+  enable: true
+  title: Education
   item:
-    - title : "M.Sc. in Engineering Mathematics and Compuational Science"
-      year : "2006"
-      academy : "Chalmers University of Technology"
-
-    - title : "B.E. in Mechatronics Engineering "
-      year : "2004"
-      academy : "Visvesvaraya Technological University"
-
-
-
-
-
-# portfolio
+  - title: M.Sc. in Engineering Mathematics and Compuational Science
+    year: "2006"
+    academy: Chalmers University of Technology
+  - title: 'B.E. in Mechatronics Engineering '
+    year: "2004"
+    academy: Visvesvaraya Technological University
 portfolio:
-  enable : true
-  title : "Portfolio"
-  item_show : 5
-  # portfolio item comes from 'data/portfolio.yml' item.
-
-# testimonial
-
-# blog
+  enable: false
+  title: Portfolio
+  item_show: "5"
 blog:
-  enable : false
-  title : "Blogs"
-  # blog post comes from "content/blog" folder
+  enable: false
+  title: Blogs
