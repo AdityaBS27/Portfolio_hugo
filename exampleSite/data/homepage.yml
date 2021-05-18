@@ -58,3 +58,7 @@ portfolio:
 blog:
   enable: false
   title: Blogs
+menu:
+  main:
+    name: ''
+    weight: 3
